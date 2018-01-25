@@ -1,0 +1,32 @@
+[
+  {
+    "repository":  "CypherOS/kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "remote":      "GitHub",
+    "branch":      "oreo-mr1-release"
+  },
+  {
+    "repository":  "external_bson",
+    "target_path": "external/bson",
+    "remote":      "LineageOS",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository":  "device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote":      "LineageOS",
+    "branch":      "staging/lineage-15.1"
+  },
+  {
+    "repository":  "packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "remote":      "LineageOS",
+    "branch":      "staging/lineage-15.1"
+  },
+  {
+    "repository":  "CypherOS/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "remote":      "GitHub",
+    "branch":      "oreo-mr1-release"
+  }
+]
